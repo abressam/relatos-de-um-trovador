@@ -9,6 +9,8 @@
 ###### Software: Unity.
 ###### Objetivo: construir um jogo didático com o objetivo de ser aplicado em sala de aula, na disciplina de língua portuguesa, para ensinar o período do trovadorismo de forma divertida e dinâmica.
 
+Link de Acesso ao jogo: ![Arquivos Executáveis - Relatos de um Trovador](https://drive.google.com/drive/folders/1jeEhnL9aI5l3FZ6-GCx0O7ayBHm9ZAVb?usp=sharing)
+
 O jogo retrata a jornada do aclamado cavaleiro Dom Lancelote em busca de novas aventuras. Durante o percurso, o jogador contará com a presença de um bardo (trovador), um personagem que narra os acontecimentos vivenciados pelo protagonista, na forma de um texto de prosa (estilo de poema da época do trovadorismo).
 
 Gameplay 1 - Fase "Castelo do Vau":
